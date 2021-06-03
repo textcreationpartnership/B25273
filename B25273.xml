@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A jest, or, Master Constable To the tune of, the three pilgrims.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25273</idno><idno type="EEBO-CITATION">99827897</idno>
+  <idno type="VID">198068</idno>
+  <idno type="EEBO-PROQUEST">2240857561</idno>
+  
+            <idno type="STC">Wing J702</idno>
+            <idno type="PROQUEST">99827897</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827897e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21232:208-209)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A jest, or, Master Constable To the tune of, the three pilgrims.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Grove on Show-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "A pretty jest I shall declare.".</note>
+                  <note>Publication date conjectured by Wing.</note>
+                  <note>In two parts; woodcuts at head of each part.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:198068:1"/>
+            <head>A Jest; Or, Master Constable.</head>
+            <opener>To the Tune of, the <hi>Three Pilgrims.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>A</hi> Pretty jest I shall declare.</l>
+                  <l>Which I not long agoe did hear</l>
+                  <l>Of one who did intend to jéere,</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I hope there's none wil matter make</l>
+                  <l>Of that that I intend to speake,</l>
+                  <l>Of a busy man who y<seg rend="sup">e</seg> place did take.</l>
+                  <l>
+                     <hi>Of a Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For I hope each wise man wiser is,</l>
+                  <l>Then to think he is touch'd in this,</l>
+                  <l>For thinking so, he thinks amiss,</l>
+                  <l>
+                     <hi>'Twas a busy Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For this is but a merry Iest,</l>
+                  <l>Which will I hope, no man molest,</l>
+                  <l>For I no grudge beare I protest,</l>
+                  <l>
+                     <hi>To any Canstable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then pray you let this poor man pass</l>
+                  <l>For he for money sings alas,</l>
+                  <l>Let none then shew himselfe an asse</l>
+                  <l>
+                     <hi>Like this Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>He as his Office did direct,</l>
+                  <l>To set his watch was circumspect</l>
+                  <l>And nothing therein did neglect,</l>
+                  <l>
+                     <hi>Like a Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Also when any passed by,</l>
+                  <l>He did examine them strictly,</l>
+                  <l>Observing with discretions eye,</l>
+                  <l>
+                     <hi>A wise Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>At length it chanc'd y<seg rend="sup">t</seg> one came néer</l>
+                  <l>And he demanded who goes there</l>
+                  <l>You know not (said he without fear</l>
+                  <l>
+                     <hi>M<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ster Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Come hither that I may you sée,</l>
+                  <l>And now what are you shew to me,</l>
+                  <l>No Man nor Woman replyed he,</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Where have you béen then asked he</l>
+                  <l>That you thus crosly answer, me,</l>
+                  <l>Know you not the authority</l>
+                  <l>
+                     <hi>Of a constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Yes I know your authority,</l>
+                  <l>And I have béen for certainty,</l>
+                  <l>Where you would have béen glad to be</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then said the Constable, some end,</l>
+                  <l>Will come hereof, but say my friend,</l>
+                  <l>Whither to goe doe you intend,</l>
+                  <l>
+                     <hi>VVhy good Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I am going thither where</l>
+                  <l>You dare not goe for your right ears</l>
+                  <l>What you are set upon the jéere</l>
+                  <l>
+                     <hi>said the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What is your name pray fel me that</l>
+                  <l>Who dare so boldly to me prate,</l>
+                  <l>Be briefe, and truth to me relate,</l>
+                  <l>
+                     <hi>Said the Constable</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Twenty shillings I am nam'd</l>
+                  <l>I thereof néed not be asham'd,</l>
+                  <l>Although by you I may be blam'd,</l>
+                  <l>
+                     <hi>master Constable</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sir, that hereafter we shall sée</l>
+                  <l>But in the mean time tell to me,</l>
+                  <l>Where your dwelling place may be,</l>
+                  <l>
+                     <hi>Quoth the Constable</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Out of the Kings dominion I,</l>
+                  <l>Doe dwell said he assuredly,</l>
+                  <l>As my Neighbours can testifie,</l>
+                  <l>
+                     <hi>master Constables</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But in the Kings dominion you</l>
+                  <l>Are now my friend, and you shall rue</l>
+                  <l>That still cross language you renew</l>
+                  <l>
+                     <hi>To a Constable.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:198068:1"/>
+               <head>The second part</head>
+               <opener>to the same Tune.</opener>
+               <p>
+                  <figure/>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>
+                     <hi>I</hi> Am at your dispose said he▪</l>
+                  <l>But pray you here this word from me</l>
+                  <l>You shew your selfe herein to be</l>
+                  <l>
+                     <hi>A wise Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>To prison then incontinent,</l>
+                  <l>The Constable this good man sent</l>
+                  <l>Although the same he did repent,</l>
+                  <l>
+                     <hi>Like a Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Before a Iustice the next day,</l>
+                  <l>The Constable bore him away,</l>
+                  <l>And to his Worship thus did say,</l>
+                  <l>
+                     <hi>Like a Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sir in my Watch the last night I</l>
+                  <l>This fellow tooke who saucely,</l>
+                  <l>Iéer'd me and my authority,</l>
+                  <l>
+                     <hi>Said the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then quoth y<seg rend="sup">•</seg> Iustice, what said he?</l>
+                  <l>That might to you distastefull be,</l>
+                  <l>And jle betwéen you judge fairly,</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>First who goes there was ask<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d by me</l>
+                  <l>You cannot tell replyed he▪</l>
+                  <l>And thus he did begin crosly,</l>
+                  <l>
+                     <hi>Said the Constable,.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Come before my authority</l>
+                  <l>And now what are you tell to me,</l>
+                  <l>No Man nor Woman replyed he,</l>
+                  <l>
+                     <hi>Said the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Where have you béen then Ienquir'd</l>
+                  <l>Where you to be would have desir'd</l>
+                  <l>Thus I againe by him was jéerd,</l>
+                  <l>
+                     <hi>Said the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Weither goe you? then said I</l>
+                  <l>And he still crosly did reply</l>
+                  <l>Where for my ears I durst not be,</l>
+                  <l>
+                     <hi>Said the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>What is your name sir tell to me,</l>
+                  <l>Twen<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y shillings replyed he</l>
+                  <l>
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hese answers fit to be,</l>
+                  <l>
+                     <hi>Give<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> a Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ke his dwelling place also,</l>
+                  <l>And he this answer did bestow</l>
+                  <l>Out of the Kings dominion know,</l>
+                  <l>
+                     <hi>Quoth the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But when he saw jde him convey,</l>
+                  <l>To prison untill the next day,</l>
+                  <l>You are quoth he I néeds must say,</l>
+                  <l>
+                     <hi>A wise Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>you my complaint have heard said he</l>
+                  <l>Now pray you judge twixt him &amp; me▪</l>
+                  <l>That I may satisfied be,</l>
+                  <l>
+                     <hi>being a Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then said the Iustice was not he,</l>
+                  <l>In drink that he thus answered thée</l>
+                  <l>If so, that might the reason be,</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>No, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your Worship I doe vow</l>
+                  <l>He was as sober as we are now,</l>
+                  <l>And therefore doe no favour shew,</l>
+                  <l>
+                     <hi>Said the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then said the Iustice what say you,</l>
+                  <l>Is this that he alledges true,</l>
+                  <l>If, how durst you such carriage shew</l>
+                  <l>
+                     <hi>Toward a Constable▪</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sir I speake truth, first he askd who</l>
+                  <l>Goes there, I said he did not know,</l>
+                  <l>If he had he would let me goe,</l>
+                  <l>
+                     <hi>Like a Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And I am a Taylor by my Trade,</l>
+                  <l>Who are no men by y<seg rend="sup">•</seg> proverb made,</l>
+                  <l>Nor am I a Woman jle perswade</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then next he asked of me where</l>
+                  <l>I had béen; which was at good chéer</l>
+                  <l>And you'd as gladly have béen there,</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And I was going thus I sed,</l>
+                  <l>where you durst not go for your head</l>
+                  <l>For it was with my wife to bed.</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And sir, <hi>Marke Noble</hi> is my name,</l>
+                  <l>And in your ears I dare proclaime,</l>
+                  <l>That twenty shilling is the same,</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The King of great Brittain is King</l>
+                  <l>as fame thrōghout y<seg rend="sup">e</seg> world dōh ring</l>
+                  <l>But in little Brittain is my dwell<g ref="char:EOLhyphen"/>ing,</l>
+                  <l>
+                     <hi>M<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ster Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>and I pray your worship further here</l>
+                  <l>If I in any thing did erre</l>
+                  <l>It was that I did him prefer,</l>
+                  <l>
+                     <hi>For a wise Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And sir he ought give me content;</l>
+                  <l>Both for my wrong imprisonment▪</l>
+                  <l>And loss of time with money spent,</l>
+                  <l>
+                     <hi>Through the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then said the Iu<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ice good sir heare</l>
+                  <l>This man makes al his words apear</l>
+                  <l>To be the truth, and not a jéere</l>
+                  <l>
+                     <hi>Master Constable,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And you have <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>éen too much to blame</l>
+                  <l>To take away thu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his good name,</l>
+                  <l>And tis fit you pay for the same</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>You said that he was not in drinke</l>
+                  <l>And therefore come lay down your think</l>
+                  <l>It is in vaine backward to shrink</l>
+                  <l>
+                     <hi>Master Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>To pay his charges I you enjoyne,</l>
+                  <l>And a French crown for loss of time</l>
+                  <l>And friendly drink a pint of Wine.</l>
+                  <l>
+                     <hi>So farwell Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>which done y<seg rend="sup">t</seg> man went merily home</l>
+                  <l>His wife rejoyc'd to sée him come,</l>
+                  <l>Where he to her told y<seg rend="sup">e</seg> whole summ,</l>
+                  <l>
+                     <hi>Of the Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus of this Constable I end,</l>
+                  <l>Desiring favour of each Friend,</l>
+                  <l>For what in mirth by me is pend</l>
+                  <l>
+                     <hi>Of <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>his Constable.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But if there's any fault doth find▪</l>
+                  <l>Such men they have a guilty mind,</l>
+                  <l>Or too too busy are inclin'd</l>
+                  <l>
+                     <hi>Like this Constable.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Entered according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>London▪ Printed for <hi>Francis Grove</hi> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Snow-hill.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
